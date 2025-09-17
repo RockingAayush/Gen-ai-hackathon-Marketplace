@@ -11,7 +11,10 @@ No description provided.
 
 - Fastapi endpoint for image description 
 - Also added an endpoint for text translation into any language
-
+- Supports image rotation using gemini-2.5-flash-image-preview
+- DBSCAN based clustering of artisans
+- Finding out the Underrated artisans
+  
 ## Installation
 
 1. Clone the repository:
